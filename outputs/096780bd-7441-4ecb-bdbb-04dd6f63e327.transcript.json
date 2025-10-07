@@ -1,0 +1,655 @@
+{
+  "call_id": "096780bd-7441-4ecb-bdbb-04dd6f63e327",
+  "language": "ml",
+  "full_transcript": "�� worried alright hai ksom municipal school ��만日 men  IKE ieso  Pharper \u0015� GISapers How was the session? It was good. What did you do? You got a degree. What is the degree? It is finished after the 4th sem. It is finished after the 4th sem. Yes, it is completed. How many are left? Two sems. What is the degree? It is finished. How was the internship? It is finished. I want to do the internship as part of the seminar. What are the college requirements? I don't know. I want to do the internship as part of the data analytics. I see. We are providing the internship in our company. We are providing the internship in the business intelligence. We are planning to do the college as part of the data analytics. Do you have any project with you? I don't have any project with me. I have to do it with everyone else. You have to do a project with everyone else. You have to do a project with everyone else. It will be the last major project. What is the time for the college? It is the 3rd semester. How is the offline plan? It is offline. It is offline. You can come directly to our office. Where are you coming to the new office? To our parent company Idle analytics. Idle analytics. Idle analytics. We are providing the internship in the 3rd month. We are providing the job oriented. You can do the college internship as part of the data analytics. We are providing placement support. We are considering opening the parent company. We are directly hiring IT companies. We are providing the support. We are providing the job oriented. You can do the college internship as part of the data analytics. It will be okay for all of you. It is the 3rd month. If you are doing offline, we will have a Monday to Friday session. You can come on Monday to Friday. It is not okay for you. You will have to come as a 3 days compulsory. You can come on Monday. You can work for the rest of the 2 days. We have options. Do you have any other doubts? I don't know if I can get the fees. We have 3 months to get the mentors. We will have to pay you from the side of the fees. We will have to pay you. They are taking your classes. How much range is it? We will have 30,000 GST. 30,000. We have 3 months to pay you. Okay. You will get a live project explosion. You will get a company explosion. You will get less funds for the company. You will get a live project. You will get an ongoing project. You will get a real project explosion. You will get experience letter. You will get the information on your employment. You will get the information on your employment. Okay. Do you have any other doubts? We can do it in a group. We have 5 girls in the class. They have a specialty to do. We can do it without any speciality. We have joined 5 people. We can ask them about the fees. Okay. I will ask them. You are planning to do the project. You are planning to do the internship. We are talking about April and May June. We have exams and meetings. We will do the extended of July and May June. April is the second week. We have an exam on the second week. And we have a lab. We can do the 15th exam on the 15th. It will be difficult. We have a lab exams on the 15th. We will do the 15th exam on the 14th.  Может  Jabhan manya Мы agreed on the rule of the year. difference is ṇ dialogues Okay, thank you",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 9.14,
+      "text": "�� worried"
+    },
+    {
+      "id": 1,
+      "start": 9.14,
+      "end": 11.82,
+      "text": "alright"
+    },
+    {
+      "id": 2,
+      "start": 11.82,
+      "end": 14.6,
+      "text": "hai"
+    },
+    {
+      "id": 3,
+      "start": 14.6,
+      "end": 19.52,
+      "text": "ksom municipal school ��만日 men"
+    },
+    {
+      "id": 4,
+      "start": 19.52,
+      "end": 23.34,
+      "text": "IKE ieso"
+    },
+    {
+      "id": 5,
+      "start": 32.5,
+      "end": 37.18,
+      "text": "Pharper"
+    },
+    {
+      "id": 6,
+      "start": 37.18,
+      "end": 41.38,
+      "text": "\u0015� GISapers"
+    },
+    {
+      "id": 7,
+      "start": 41.38,
+      "end": 44.38,
+      "text": "How was the session?"
+    },
+    {
+      "id": 8,
+      "start": 45.38,
+      "end": 47.38,
+      "text": "It was good."
+    },
+    {
+      "id": 9,
+      "start": 48.38,
+      "end": 50.38,
+      "text": "What did you do? You got a degree."
+    },
+    {
+      "id": 10,
+      "start": 52.38,
+      "end": 54.38,
+      "text": "What is the degree?"
+    },
+    {
+      "id": 11,
+      "start": 55.38,
+      "end": 57.38,
+      "text": "It is finished after the 4th sem."
+    },
+    {
+      "id": 12,
+      "start": 58.38,
+      "end": 60.38,
+      "text": "It is finished after the 4th sem."
+    },
+    {
+      "id": 13,
+      "start": 61.38,
+      "end": 63.38,
+      "text": "Yes, it is completed."
+    },
+    {
+      "id": 14,
+      "start": 64.38,
+      "end": 66.38,
+      "text": "How many are left?"
+    },
+    {
+      "id": 15,
+      "start": 67.38,
+      "end": 69.38,
+      "text": "Two sems."
+    },
+    {
+      "id": 16,
+      "start": 69.38,
+      "end": 71.38,
+      "text": "What is the degree?"
+    },
+    {
+      "id": 17,
+      "start": 72.38,
+      "end": 73.38,
+      "text": "It is finished."
+    },
+    {
+      "id": 18,
+      "start": 74.38,
+      "end": 77.38,
+      "text": "How was the internship?"
+    },
+    {
+      "id": 19,
+      "start": 78.38,
+      "end": 80.38,
+      "text": "It is finished."
+    },
+    {
+      "id": 20,
+      "start": 83.38,
+      "end": 88.38,
+      "text": "I want to do the internship as part of the seminar."
+    },
+    {
+      "id": 21,
+      "start": 89.38,
+      "end": 92.38,
+      "text": "What are the college requirements?"
+    },
+    {
+      "id": 22,
+      "start": 92.38,
+      "end": 94.38,
+      "text": "I don't know."
+    },
+    {
+      "id": 23,
+      "start": 95.38,
+      "end": 101.38,
+      "text": "I want to do the internship as part of the data analytics."
+    },
+    {
+      "id": 24,
+      "start": 102.38,
+      "end": 103.38,
+      "text": "I see."
+    },
+    {
+      "id": 25,
+      "start": 104.38,
+      "end": 107.38,
+      "text": "We are providing the internship in our company."
+    },
+    {
+      "id": 26,
+      "start": 108.38,
+      "end": 112.38,
+      "text": "We are providing the internship in the business intelligence."
+    },
+    {
+      "id": 27,
+      "start": 112.38,
+      "end": 124.38,
+      "text": "We are planning to do the college as part of the data analytics."
+    },
+    {
+      "id": 28,
+      "start": 125.38,
+      "end": 128.38,
+      "text": "Do you have any project with you?"
+    },
+    {
+      "id": 29,
+      "start": 129.38,
+      "end": 131.38,
+      "text": "I don't have any project with me."
+    },
+    {
+      "id": 30,
+      "start": 132.38,
+      "end": 134.38,
+      "text": "I have to do it with everyone else."
+    },
+    {
+      "id": 31,
+      "start": 135.38,
+      "end": 139.38,
+      "text": "You have to do a project with everyone else."
+    },
+    {
+      "id": 32,
+      "start": 139.38,
+      "end": 141.38,
+      "text": "You have to do a project with everyone else."
+    },
+    {
+      "id": 33,
+      "start": 142.38,
+      "end": 144.38,
+      "text": "It will be the last major project."
+    },
+    {
+      "id": 34,
+      "start": 145.38,
+      "end": 149.38,
+      "text": "What is the time for the college?"
+    },
+    {
+      "id": 35,
+      "start": 150.38,
+      "end": 153.38,
+      "text": "It is the 3rd semester."
+    },
+    {
+      "id": 36,
+      "start": 154.38,
+      "end": 159.38,
+      "text": "How is the offline plan?"
+    },
+    {
+      "id": 37,
+      "start": 160.38,
+      "end": 162.38,
+      "text": "It is offline."
+    },
+    {
+      "id": 38,
+      "start": 163.38,
+      "end": 164.38,
+      "text": "It is offline."
+    },
+    {
+      "id": 39,
+      "start": 164.38,
+      "end": 168.38,
+      "text": "You can come directly to our office."
+    },
+    {
+      "id": 40,
+      "start": 169.38,
+      "end": 173.38,
+      "text": "Where are you coming to the new office?"
+    },
+    {
+      "id": 41,
+      "start": 174.38,
+      "end": 176.38,
+      "text": "To our parent company Idle analytics."
+    },
+    {
+      "id": 42,
+      "start": 177.38,
+      "end": 179.38,
+      "text": "Idle analytics."
+    },
+    {
+      "id": 43,
+      "start": 180.38,
+      "end": 182.38,
+      "text": "Idle analytics."
+    },
+    {
+      "id": 44,
+      "start": 183.38,
+      "end": 188.38,
+      "text": "We are providing the internship in the 3rd month."
+    },
+    {
+      "id": 45,
+      "start": 188.38,
+      "end": 191.38,
+      "text": "We are providing the job oriented."
+    },
+    {
+      "id": 46,
+      "start": 192.38,
+      "end": 196.38,
+      "text": "You can do the college internship as part of the data analytics."
+    },
+    {
+      "id": 47,
+      "start": 197.38,
+      "end": 200.38,
+      "text": "We are providing placement support."
+    },
+    {
+      "id": 48,
+      "start": 201.38,
+      "end": 204.38,
+      "text": "We are considering opening the parent company."
+    },
+    {
+      "id": 49,
+      "start": 205.38,
+      "end": 208.38,
+      "text": "We are directly hiring IT companies."
+    },
+    {
+      "id": 50,
+      "start": 209.38,
+      "end": 211.38,
+      "text": "We are providing the support."
+    },
+    {
+      "id": 51,
+      "start": 211.38,
+      "end": 213.38,
+      "text": "We are providing the job oriented."
+    },
+    {
+      "id": 52,
+      "start": 214.38,
+      "end": 217.38,
+      "text": "You can do the college internship as part of the data analytics."
+    },
+    {
+      "id": 53,
+      "start": 218.38,
+      "end": 220.38,
+      "text": "It will be okay for all of you."
+    },
+    {
+      "id": 54,
+      "start": 221.38,
+      "end": 223.38,
+      "text": "It is the 3rd month."
+    },
+    {
+      "id": 55,
+      "start": 224.38,
+      "end": 227.38,
+      "text": "If you are doing offline, we will have a Monday to Friday session."
+    },
+    {
+      "id": 56,
+      "start": 228.38,
+      "end": 230.38,
+      "text": "You can come on Monday to Friday."
+    },
+    {
+      "id": 57,
+      "start": 231.38,
+      "end": 233.38,
+      "text": "It is not okay for you."
+    },
+    {
+      "id": 58,
+      "start": 234.38,
+      "end": 237.38,
+      "text": "You will have to come as a 3 days compulsory."
+    },
+    {
+      "id": 59,
+      "start": 237.38,
+      "end": 239.38,
+      "text": "You can come on Monday."
+    },
+    {
+      "id": 60,
+      "start": 240.38,
+      "end": 243.38,
+      "text": "You can work for the rest of the 2 days."
+    },
+    {
+      "id": 61,
+      "start": 244.38,
+      "end": 246.38,
+      "text": "We have options."
+    },
+    {
+      "id": 62,
+      "start": 247.38,
+      "end": 250.38,
+      "text": "Do you have any other doubts?"
+    },
+    {
+      "id": 63,
+      "start": 251.38,
+      "end": 254.38,
+      "text": "I don't know if I can get the fees."
+    },
+    {
+      "id": 64,
+      "start": 255.38,
+      "end": 258.38,
+      "text": "We have 3 months to get the mentors."
+    },
+    {
+      "id": 65,
+      "start": 259.38,
+      "end": 263.38,
+      "text": "We will have to pay you from the side of the fees."
+    },
+    {
+      "id": 66,
+      "start": 263.38,
+      "end": 265.38,
+      "text": "We will have to pay you."
+    },
+    {
+      "id": 67,
+      "start": 266.38,
+      "end": 269.38,
+      "text": "They are taking your classes."
+    },
+    {
+      "id": 68,
+      "start": 270.38,
+      "end": 273.38,
+      "text": "How much range is it?"
+    },
+    {
+      "id": 69,
+      "start": 274.38,
+      "end": 277.38,
+      "text": "We will have 30,000 GST."
+    },
+    {
+      "id": 70,
+      "start": 278.38,
+      "end": 280.38,
+      "text": "30,000."
+    },
+    {
+      "id": 71,
+      "start": 281.38,
+      "end": 284.38,
+      "text": "We have 3 months to pay you."
+    },
+    {
+      "id": 72,
+      "start": 285.38,
+      "end": 287.38,
+      "text": "Okay."
+    },
+    {
+      "id": 73,
+      "start": 288.38,
+      "end": 291.38,
+      "text": "You will get a live project explosion."
+    },
+    {
+      "id": 74,
+      "start": 291.38,
+      "end": 294.38,
+      "text": "You will get a company explosion."
+    },
+    {
+      "id": 75,
+      "start": 295.38,
+      "end": 298.38,
+      "text": "You will get less funds for the company."
+    },
+    {
+      "id": 76,
+      "start": 299.38,
+      "end": 302.38,
+      "text": "You will get a live project."
+    },
+    {
+      "id": 77,
+      "start": 303.38,
+      "end": 306.38,
+      "text": "You will get an ongoing project."
+    },
+    {
+      "id": 78,
+      "start": 307.38,
+      "end": 310.38,
+      "text": "You will get a real project explosion."
+    },
+    {
+      "id": 79,
+      "start": 311.38,
+      "end": 314.38,
+      "text": "You will get experience letter."
+    },
+    {
+      "id": 80,
+      "start": 315.38,
+      "end": 318.38,
+      "text": "You will get the information on your employment."
+    },
+    {
+      "id": 81,
+      "start": 318.38,
+      "end": 321.38,
+      "text": "You will get the information on your employment."
+    },
+    {
+      "id": 82,
+      "start": 322.38,
+      "end": 324.38,
+      "text": "Okay."
+    },
+    {
+      "id": 83,
+      "start": 325.38,
+      "end": 327.38,
+      "text": "Do you have any other doubts?"
+    },
+    {
+      "id": 84,
+      "start": 328.38,
+      "end": 331.38,
+      "text": "We can do it in a group."
+    },
+    {
+      "id": 85,
+      "start": 332.38,
+      "end": 335.38,
+      "text": "We have 5 girls in the class."
+    },
+    {
+      "id": 86,
+      "start": 336.38,
+      "end": 339.38,
+      "text": "They have a specialty to do."
+    },
+    {
+      "id": 87,
+      "start": 340.38,
+      "end": 343.38,
+      "text": "We can do it without any speciality."
+    },
+    {
+      "id": 88,
+      "start": 344.38,
+      "end": 346.38,
+      "text": "We have joined 5 people."
+    },
+    {
+      "id": 89,
+      "start": 346.38,
+      "end": 349.38,
+      "text": "We can ask them about the fees."
+    },
+    {
+      "id": 90,
+      "start": 350.38,
+      "end": 352.38,
+      "text": "Okay."
+    },
+    {
+      "id": 91,
+      "start": 353.38,
+      "end": 355.38,
+      "text": "I will ask them."
+    },
+    {
+      "id": 92,
+      "start": 356.38,
+      "end": 359.38,
+      "text": "You are planning to do the project."
+    },
+    {
+      "id": 93,
+      "start": 360.38,
+      "end": 363.38,
+      "text": "You are planning to do the internship."
+    },
+    {
+      "id": 94,
+      "start": 364.38,
+      "end": 367.38,
+      "text": "We are talking about April and May June."
+    },
+    {
+      "id": 95,
+      "start": 368.38,
+      "end": 371.38,
+      "text": "We have exams and meetings."
+    },
+    {
+      "id": 96,
+      "start": 372.38,
+      "end": 375.38,
+      "text": "We will do the extended of July and May June."
+    },
+    {
+      "id": 97,
+      "start": 376.38,
+      "end": 378.38,
+      "text": "April is the second week."
+    },
+    {
+      "id": 98,
+      "start": 379.38,
+      "end": 382.38,
+      "text": "We have an exam on the second week."
+    },
+    {
+      "id": 99,
+      "start": 383.38,
+      "end": 385.38,
+      "text": "And we have a lab."
+    },
+    {
+      "id": 100,
+      "start": 386.38,
+      "end": 389.38,
+      "text": "We can do the 15th exam on the 15th."
+    },
+    {
+      "id": 101,
+      "start": 392.38,
+      "end": 394.38,
+      "text": "It will be difficult."
+    },
+    {
+      "id": 102,
+      "start": 395.38,
+      "end": 398.38,
+      "text": "We have a lab exams on the 15th."
+    },
+    {
+      "id": 103,
+      "start": 399.38,
+      "end": 403.38,
+      "text": "We will do the 15th exam on the 14th."
+    },
+    {
+      "id": 104,
+      "start": 403.38,
+      "end": 419.62,
+      "text": "Может  Jabhan manya Мы agreed on the rule of the year."
+    },
+    {
+      "id": 105,
+      "start": 419.62,
+      "end": 446.62,
+      "text": "difference is"
+    },
+    {
+      "id": 106,
+      "start": 446.62,
+      "end": 448.62,
+      "text": "ṇ dialogues"
+    },
+    {
+      "id": 107,
+      "start": 449.62,
+      "end": 451.62,
+      "text": "Okay, thank you"
+    }
+  ]
+}
