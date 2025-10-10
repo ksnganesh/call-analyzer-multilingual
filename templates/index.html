@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Call Analyzer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    /* For a more polished file input */
+    .file-input-label {
+      transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+    }
+    .file-input-label.dragover {
+      background-color: #e0f2fe; /* Light blue on drag over */
+      border-color: #0284c7;
+    }
+  </style>
+</head>
+<body class="bg-gradient-to-br from-gray-50 to-gray-200 flex items-center justify-center min-h-screen font-sans">
+
+  <div class="bg-white p-8 sm:p-10 rounded-2xl shadow-2xl w-full max-w-lg text-center border border-gray-200/80">
+    <div class="flex justify-center mb-4">
+      <div class="p-3 bg-blue-100 rounded-full">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M7 11.5V14m0-2.5v-6a1.5 1.5 0 113 0m-3 6a1.5 1.5 0 00-3 0v2a7.5 7.5 0 0015 0v-5a1.5 1.5 0 00-3 0m-6-3V11m0-5.5v-1a1.5 1.5 0 013 0v1m0 0V11m0-5.5a1.5 1.5 0 013 0v3m0 0V11" />
+        </svg>
+      </div>
+    </div>
+    <h1 class="text-3xl font-bold text-gray-800 mb-2">Call Sentiment Analyzer</h1>
+    <p class="text-gray-500 mb-8">Upload an audio file to get a detailed analysis of the conversation.</p>
+    
+    <form id="uploadForm" action="/analyze" method="post" enctype="multipart/form-data">
+      
+      <label for="file-upload" class="file-input-label cursor-pointer flex flex-col items-center justify-center w-full h-40 mb-6 border-2 border-dashed border-gray-300 rounded-xl hover:bg-gray-50">
+        <div id="upload-prompt" class="text-gray-500 text-center">
+            <svg class="mx-auto h-12 w-12 text-gray-400" stroke="currentColor" fill="none" viewBox="0 0 48 48" aria-hidden="true">
+                <path d="M28 8H12a4 4 0 00-4 4v20m32-12v8m0 0v8a4 4 0 01-4 4H12a4 4 0 01-4-4v-4m32-4l-3.172-3.172a4 4 0 00-5.656 0L28 28M8 32l9.172-9.172a4 4 0 015.656 0L28 28m0 0l4 4m4-24h8m-4-4v8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </svg>
+            <p class="mt-2"><span class="font-semibold text-blue-600">Click to upload</span> or drag and drop</p>
+            <p class="text-xs text-gray-400 mt-1">MP3, WAV, M4A (MAX. 25MB)</p>
+        </div>
+        <div id="file-name" class="hidden font-semibold text-gray-700"></div>
+      </label>
+      <input id="file-upload" type="file" name="file" accept="audio/*" class="sr-only" required />
+      
+      <button id="submit-btn" type="submit" class="w-full bg-blue-600 text-white font-semibold px-6 py-3 rounded-lg shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-200 flex items-center justify-center disabled:bg-blue-400 disabled:cursor-not-allowed">
+        <span id="btn-text">Analyze Call</span>
+        <svg id="spinner" class="animate-spin -ml-1 mr-3 h-5 w-5 text-white hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+      </button>
+    </form>
+  </div>
+
+<script>
+  const form = document.getElementById('uploadForm');
+  const fileInput = document.getElementById('file-upload');
+  const fileLabel = document.querySelector('.file-input-label');
+  const fileNameDisplay = document.getElementById('file-name');
+  const uploadPrompt = document.getElementById('upload-prompt');
+  
+  const submitBtn = document.getElementById('submit-btn');
+  const btnText = document.getElementById('btn-text');
+  const spinner = document.getElementById('spinner');
+
+  // Drag and Drop styles
+  ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+    fileLabel.addEventListener(eventName, e => {
+      e.preventDefault();
+      e.stopPropagation();
+    });
+  });
+  fileLabel.addEventListener('dragover', () => fileLabel.classList.add('dragover'));
+  fileLabel.addEventListener('dragleave', () => fileLabel.classList.remove('dragover'));
+  fileLabel.addEventListener('drop', e => {
+    fileLabel.classList.remove('dragover');
+    fileInput.files = e.dataTransfer.files;
+    updateFileName();
+  });
+
+  // Handle file selection
+  fileInput.addEventListener('change', updateFileName);
+  
+  function updateFileName() {
+    if (fileInput.files.length > 0) {
+      fileNameDisplay.textContent = `Selected: ${fileInput.files[0].name}`;
+      uploadPrompt.classList.add('hidden');
+      fileNameDisplay.classList.remove('hidden');
+    }
+  }
+
+  // Handle form submission and loading state
+  form.addEventListener('submit', function() {
+    spinner.classList.remove('hidden');
+    btnText.textContent = 'Analyzing...';
+    submitBtn.disabled = true;
+  });
+</script>
+
+</body>
+</html>
