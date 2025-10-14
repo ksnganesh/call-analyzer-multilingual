@@ -1,5 +1,5 @@
 {
-  "call_id": "59b00e1a-34e0-4fe1-8b4e-9e7c980a28b8",
+  "call_id": "9dcc02ce-f128-43f4-b14b-078f1070ee2c",
   "segments": [
     {
       "id": 0,
@@ -9,7 +9,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.6381697058677673,
+      "sentiment_score": 0.6381694078445435,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -21,7 +21,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Positive",
-      "sentiment_score": 0.4337397813796997,
+      "sentiment_score": 0.4337405562400818,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -45,7 +45,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Very Negative",
-      "sentiment_score": 0.674835741519928,
+      "sentiment_score": 0.6748359799385071,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -57,7 +57,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Positive",
-      "sentiment_score": 0.6804907917976379,
+      "sentiment_score": 0.6804907321929932,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -69,7 +69,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.4279822111129761,
+      "sentiment_score": 0.42798227071762085,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -80,8 +80,8 @@
       "text": "Greg Andersen.",
       "speaker": "SPEAKER_1",
       "language": "de",
-      "sentiment_label": "Neutral",
-      "sentiment_score": 0.40097564458847046,
+      "sentiment_label": "Positive",
+      "sentiment_score": 0.4181367754936218,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -93,7 +93,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.41679930686950684,
+      "sentiment_score": 0.4167994260787964,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -105,7 +105,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.5748355388641357,
+      "sentiment_score": 0.5748361945152283,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -116,8 +116,8 @@
       "text": "Okay.",
       "speaker": "SPEAKER_1",
       "language": "tl",
-      "sentiment_label": "Positive",
-      "sentiment_score": 0.653181254863739,
+      "sentiment_label": "Neutral",
+      "sentiment_score": 0.5208786129951477,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -129,7 +129,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.67059725522995,
+      "sentiment_score": 0.6705978512763977,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -140,8 +140,8 @@
       "text": "Okay.",
       "speaker": "SPEAKER_0",
       "language": "tl",
-      "sentiment_label": "Positive",
-      "sentiment_score": 0.653181254863739,
+      "sentiment_label": "Neutral",
+      "sentiment_score": 0.5208786129951477,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -153,7 +153,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.536523163318634,
+      "sentiment_score": 0.5365231037139893,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -165,7 +165,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.7273976802825928,
+      "sentiment_score": 0.7273977398872375,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -177,7 +177,7 @@
       "speaker": "SPEAKER_0",
       "language": "unk",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.5221933722496033,
+      "sentiment_score": 0.6731796264648438,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -189,7 +189,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.8579705357551575,
+      "sentiment_score": 0.7024877071380615,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -200,8 +200,8 @@
       "text": "Yeah, right around.",
       "speaker": "SPEAKER_1",
       "language": "en",
-      "sentiment_label": "Positive",
-      "sentiment_score": 0.6680221557617188,
+      "sentiment_label": "Neutral",
+      "sentiment_score": 0.6024975776672363,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -213,7 +213,7 @@
       "speaker": "SPEAKER_1",
       "language": "no",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.9051244258880615,
+      "sentiment_score": 0.8040440082550049,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -225,7 +225,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Neutral",
-      "sentiment_score": 0.471869558095932,
+      "sentiment_score": 0.5352764129638672,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -237,7 +237,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Negative",
-      "sentiment_score": 0.7874602675437927,
+      "sentiment_score": 0.7874603271484375,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -249,7 +249,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Positive",
-      "sentiment_score": 0.4963639974594116,
+      "sentiment_score": 0.49636393785476685,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -261,7 +261,7 @@
       "speaker": "SPEAKER_0",
       "language": "en",
       "sentiment_label": "Positive",
-      "sentiment_score": 0.494200736284256,
+      "sentiment_score": 0.4942004680633545,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -272,8 +272,8 @@
       "text": "Okay.",
       "speaker": "SPEAKER_0",
       "language": "tl",
-      "sentiment_label": "Positive",
-      "sentiment_score": 0.653181254863739,
+      "sentiment_label": "Neutral",
+      "sentiment_score": 0.5208786129951477,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -285,7 +285,7 @@
       "speaker": "SPEAKER_1",
       "language": "en",
       "sentiment_label": "Positive",
-      "sentiment_score": 0.5960381031036377,
+      "sentiment_score": 0.4114469289779663,
       "contains_profanity": false,
       "contains_phone_number": false
     },
@@ -296,8 +296,8 @@
       "text": "Thanks.",
       "speaker": "SPEAKER_0",
       "language": "en",
-      "sentiment_label": "Positive",
-      "sentiment_score": 0.654492974281311,
+      "sentiment_label": "Neutral",
+      "sentiment_score": 0.3667851388454437,
       "contains_profanity": false,
       "contains_phone_number": false
     }
