@@ -17,3 +17,5 @@ resemblyzer
 scikit-learn
 langdetect
 better-profanity
+google-genai
+openai

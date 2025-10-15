@@ -1,0 +1,12 @@
+{
+  "call_id": "7d3f6e1d-fadc-4ec0-acbb-8b6943ac6354",
+  "telecaller_score": 35,
+  "customer_sentiment_score": 0,
+  "components": {
+    "structure": 5,
+    "politeness": 0,
+    "objection_handling": 0,
+    "talk_dynamics": 0.38390028564009354,
+    "compliance": 15
+  }
+}

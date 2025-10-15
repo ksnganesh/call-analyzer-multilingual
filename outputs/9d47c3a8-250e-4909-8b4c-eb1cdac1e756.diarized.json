@@ -1,0 +1,181 @@
+{
+  "call_id": "9d47c3a8-250e-4909-8b4c-eb1cdac1e756",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Good afternoon, Julie D'Arcane.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 1,
+      "start": 5.0,
+      "end": 13.0,
+      "text": "Yeah, I'm coming up there tonight to get all the hacky sacks off the balcony up front.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 2,
+      "start": 13.0,
+      "end": 16.0,
+      "text": "The hacky sacks out there. Up on the balcony.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 3,
+      "start": 16.0,
+      "end": 19.0,
+      "text": "It's from... Who was this? I can barely hear you. I'm sorry.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 4,
+      "start": 19.0,
+      "end": 21.0,
+      "text": "Yeah, this is Greg Andersen.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 5,
+      "start": 21.0,
+      "end": 25.0,
+      "text": "I'm sorry, what? Greg Andersen?",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 6,
+      "start": 25.0,
+      "end": 27.0,
+      "text": "Greg Andersen.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 7,
+      "start": 27.0,
+      "end": 30.0,
+      "text": "I can't. I can barely hear you. I guess I'll be there.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 8,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "I'm sorry. I'm coming up there.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 9,
+      "start": 32.0,
+      "end": 33.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 10,
+      "start": 33.0,
+      "end": 37.0,
+      "text": "And I gotta get the hacky sacks up on the balcony.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 11,
+      "start": 37.0,
+      "end": 38.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 12,
+      "start": 38.0,
+      "end": 42.0,
+      "text": "They've been up there since 1988.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 13,
+      "start": 42.0,
+      "end": 45.0,
+      "text": "I can't even get breaking up right now.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 14,
+      "start": 45.0,
+      "end": 47.0,
+      "text": "1988.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 15,
+      "start": 47.0,
+      "end": 48.0,
+      "text": "What about 1988?",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 16,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "Yeah, right around.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 17,
+      "start": 50.0,
+      "end": 53.0,
+      "text": "Give or take.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 18,
+      "start": 53.0,
+      "end": 56.0,
+      "text": "Rock and roll.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 19,
+      "start": 56.0,
+      "end": 59.0,
+      "text": "I'm sorry, I don't want to see what you're saying.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 20,
+      "start": 59.0,
+      "end": 61.0,
+      "text": "Dude, it's a magical thing, bro.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 21,
+      "start": 61.0,
+      "end": 64.0,
+      "text": "I'm actually coming up there to get my hacky sacks.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 22,
+      "start": 64.0,
+      "end": 65.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_0"
+    },
+    {
+      "id": 23,
+      "start": 65.0,
+      "end": 67.0,
+      "text": "I can see it now.",
+      "speaker": "SPEAKER_1"
+    },
+    {
+      "id": 24,
+      "start": 67.0,
+      "end": 68.0,
+      "text": "Thanks.",
+      "speaker": "SPEAKER_0"
+    }
+  ],
+  "num_speakers": 2
+}
