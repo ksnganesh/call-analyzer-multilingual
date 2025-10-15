@@ -12,7 +12,7 @@ A fully local FastAPI-based app that analyzes call recordings across Indian lang
 
 ## 🛠 Setup
 ```bash
-git clone https://github.com/yourname/call-analyzer-multilingual.git
+git clone https://github.com/ksnganesh/call-analyzer-multilingual.git
 cd call-analyzer-multilingual
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
