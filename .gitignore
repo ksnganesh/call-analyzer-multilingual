@@ -67,4 +67,4 @@ venv.bak/
 /output/
 /downloads/
 *.mp3
-*.wav
+*.wavscripts/.env
